@@ -1,0 +1,1 @@
+C:\Organized\Programming\Sample codes\Web\NopCommerce\Web\Plugins\Nop.Plugin.SMS.Verizon\obj\Debug\Nop.Plugin.SMS.Verizon.csprojResolveAssemblyReference.cache

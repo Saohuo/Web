@@ -1,0 +1,1 @@
+C:\Organized\Programming\Sample codes\Web\NopCommerce\Web\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.csprojResolveAssemblyReference.cache

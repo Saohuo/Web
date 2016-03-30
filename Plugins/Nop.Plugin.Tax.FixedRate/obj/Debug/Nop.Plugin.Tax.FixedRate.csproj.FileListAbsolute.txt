@@ -1,0 +1,1 @@
+C:\Organized\Programming\Sample codes\Web\NopCommerce\Web\Plugins\Nop.Plugin.Tax.FixedRate\obj\Debug\Nop.Plugin.Tax.FixedRate.csprojResolveAssemblyReference.cache

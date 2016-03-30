@@ -1,0 +1,1 @@
+C:\Organized\Programming\Sample codes\Web\NopCommerce\Web\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.csprojResolveAssemblyReference.cache
